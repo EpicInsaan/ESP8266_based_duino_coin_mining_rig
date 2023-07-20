@@ -1,6 +1,10 @@
 Duino Coin Mining Rig - ESP8266-based Project
 
-
+![Uploading IMG20220501205227-01.jpeg…]()
+![Uploading PXL_20220501_141636254.jpg…]()
+![PXL_20220501_140606515](https://github.com/EpicInsaan/ESP8266_based_duino_coin_mining_rig/assets/87660943/1e7e8676-b0ce-4cd7-b984-bc2ecea5a536)
+![Uploading PXL_20220501_140536060.jpg…]()
+![Uploading IMG20220501204017.jpg…]()
 
 
 The Duino Coin Mining Rig is an exciting electronics project designed to mine Duino Coin cryptocurrency using the power of ESP8266 microcontrollers. This project utilizes a total of three ESP8266 01 and three ESP8266 01s modules, offering an efficient and cost-effective solution for cryptocurrency enthusiasts.
